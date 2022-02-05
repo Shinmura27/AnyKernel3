@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=VoidKernel by CincauEXE@telegram
+kernel.string=Fracture Kernel by CincauEXE@telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
