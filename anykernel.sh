@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=FractureKernel by CincauEXE@telegram
+kernel.string=Lyria-Chu~1.0 Fracture Mod by Lilia
 do.devicecheck=0
 do.modules=0
 do.systemless=1
